@@ -1,6 +1,8 @@
-# Template
+# Programming Exam Template
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: End of class
+
+## You get one submission attempt. I will only grade your earliest commit
 
 - Create a program called `.java`
 - Prompt the user for 
